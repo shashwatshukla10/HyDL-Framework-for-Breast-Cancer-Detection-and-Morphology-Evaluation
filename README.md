@@ -63,7 +63,7 @@ The Structural Similarity Index (SSIM) algorithm was applied to the overall data
 **Figure 5.**  Global SSIM for the overall dataset with a dynamic threshold with a 99th percentile. 
 
 <p align="center">
-<img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/SSIM_PerClass.jpg" width="900" height="7000">
+<img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/SSIM_PerClass.jpg" width="700" height="500">
 <p align="center">
 
 **Figure 6.**  Classwise SSIM for the normal, benign, and malignant images with a dynamic threshold with a 99th percentile. 
