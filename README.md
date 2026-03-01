@@ -113,12 +113,10 @@ After validating performance on the WODD dataset, a comparative analysis is cond
 tumor detection.
 
 <p align="center">
-<img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/ConfusionMatrix.png"width="700" height="500">
+<img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/ConfusionMatrix.png"width="800" height="600">
 <p align="center">
 
 **Figure 10.**  Classwise confusion matrix of the proposed HybDL on WODD and WDD datasets. (a) & (c) Background class on WODD & WDD, (b) & (d) Benign class on WODD & WDD, and (c) & (e) Malignant class on WODD & WDD.
-
-
 
 <p align="center">
 <img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/PerformanceImprovement.jpg"width="700" height="500">
