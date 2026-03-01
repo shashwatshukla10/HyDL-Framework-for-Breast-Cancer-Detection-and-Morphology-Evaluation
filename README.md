@@ -184,6 +184,14 @@ The computational complexity of the proposed HybDL framework is analyzed to veri
 
 ---
 
+## Citation
+
+If you use this repository in your work, please cite it as:
+
+**Shashwat Shukla**, **Rahul Kumar Verma**, **Shahid Hussain**, and **Saurabh Shukla**,  
+*“A Hybrid U-Net and LSTM Framework for Breast Cancer Detection and Morphology Evaluation,”*  
+GitHub repository, 2026.
+
 # Contact details
 ### 1. Dr. Rahul Kumar Verma (rahul@iiitl.ac.in)
 ###    Affiliation: **Department of Computer Science, Indian Institute of Information Technology~(IIIT) Lucknow, India**
