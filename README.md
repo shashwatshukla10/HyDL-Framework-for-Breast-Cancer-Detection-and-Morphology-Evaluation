@@ -18,5 +18,7 @@ The system model of the proposed HybDL consists of three functional phases, as d
 **Identification Phase**: In this phase, a U-Net model is employed to segment breast tissue into normal, benign, and malignant regions. The segmentation focuses on the regions of interest, enabling the network to learn meaningful spatial features. The model follows an encoder decoder structure, where convolutional layers extract features, max pooling layers reduce spatial dimensions, and upsampling layers restore resolution. Activation functions such as ReLU introduce nonlinearity, allowing the network to effectively distinguish between different tissue types.
 
 **Morphology Phase**: The segmented output is passed to the morphology phase, where key shape based features such as area, perimeter, circularity, and eccentricity are calculated using mathematical formulations. These quantitative features are then fed into a multivariate LSTM network to model temporal changes in tumor characteristics, including growth patterns and shape progression. The resulting predictions provide measurable insights into tumor behavior, supporting clinical decision making and patient follow up.
-
+<p align="center">
+<img src= "https://github.com/shahid3167/Hybrid-DL-BHA-Approach-for-Energy-and-Anomaly-in-Smart-City-Applications/blob/main/Figures/SystemModel.jpg" width ="5650" height ="4500>
+<p align="center">
  
