@@ -38,7 +38,7 @@ The dataset is accessible through the [Kaggle Website](https://www.kaggle.com/da
 and *210 malignant* images. A representation of the dataset is presented in Figure 3. 
 
 <p align="center">
-<img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/Distribution.jpg" width="600" height="400">
+<img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/Distribution.jpg" width="650" height="450">
 <p align="center">
 
 **Figure 3.**  Dataset showing normal, benign, and malignant images, each presented with and without their masks.
@@ -46,7 +46,6 @@ and *210 malignant* images. A representation of the dataset is presented in Figu
 <p align="center">
 <img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/CombinedImages.png" width="900" height="700">
 <p align="center">
-
 
 **Figure 4.**  A representation of the original, masks, and overlay for the normal, benign, and malignant images. 
 
