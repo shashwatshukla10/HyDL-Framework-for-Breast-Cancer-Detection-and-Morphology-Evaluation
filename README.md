@@ -38,7 +38,7 @@ The dataset is accessible through the [Kaggle Website](https://www.kaggle.com/da
 and *210 malignant* images. A representation of the dataset is presented in Figure 3. 
 
 <p align="center">
-<img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/Distribution.jpg" width="650" height="450">
+<img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/Distribution.jpg" width="600" height="400">
 <p align="center">
 
 **Figure 3.**  Dataset showing normal, benign, and malignant images, each presented with and without their masks.
@@ -57,7 +57,7 @@ The Structural Similarity Index (SSIM) algorithm was applied to the overall data
 <p align="center">
 
 <p align="center">
-<img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/SSIM_Global.png" width="600" height="400">
+<img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/SSIM_Global.png" width="650" height="450">
 <p align="center">
 
 **Figure 5.**  Global SSIM for the overall dataset with a dynamic threshold with a 99th percentile. 
