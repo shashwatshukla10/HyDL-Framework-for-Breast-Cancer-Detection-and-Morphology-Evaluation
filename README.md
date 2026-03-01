@@ -42,3 +42,10 @@ and *210 malignant* images. A representation of the dataset is presented in Figu
 <p align="center">
 
 **Figure 3.**  Dataset showing normal, benign, and malignant images, each presented with and without their masks.
+
+<p align="center">
+<img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/Distribution.jpg" width="700" height="500">
+<p align="center">
+
+
+**Figure 4.**  A representation of the original, masks, and overlay for the normal, benign, and malignant images. 
