@@ -15,4 +15,6 @@ The system model of the proposed HybDL consists of three functional phases, as d
 
 **Data Phase**: The data phase begins with an initial consultation with a physician, during which the patient’s symptoms, medical history, and clinical observations are discussed. Based on this evaluation, the physician may recommend further diagnostic tests, such as digital mammography, to assess any suspected abnormalities. The digital mammogram examination then generates high resolution breast images, which serve as the primary input data for subsequent analysis in the proposed framework.
 
+**Identification Phase**: In this phase, a U-Net model is employed to segment breast tissue into normal, benign, and malignant regions. The segmentation focuses on the regions of interest, enabling the network to learn meaningful spatial features. The model follows an encoder decoder structure, where convolutional layers extract features, max pooling layers reduce spatial dimensions, and upsampling layers restore resolution. Activation functions such as ReLU introduce nonlinearity, allowing the network to effectively distinguish between different tissue types.
+
  
