@@ -191,7 +191,10 @@ This repository contains implementation code related to the manuscript:
 **A Hybrid U-Net and LSTM Framework for Breast Cancer Detection and Morphology Evaluation**
 
 **Authors:**  
+Shashwat Shukla  
+Rahul Kumar Verma  
 Shahid Hussain  
+Saurabh Shukla  
 
 **The manuscript is currently under review.**
 
@@ -203,6 +206,9 @@ without prior written permission from the authors.
 
 ## Contact Details
 
+### Dr. Rahul Kumar Verma (rahul@iiitl.ac.in) 
+Department of Computer Science, Indian Institute of Information Technology (IIIT) Lucknow, India.  
+
+ 
 ### Dr. Shahid Hussain (shahid.hussain@atu.ie)  
 Atlantic Technological University (ATU), Dublin Road, Galway, H91 T8NW, Ireland.
-
